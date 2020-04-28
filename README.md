@@ -9,15 +9,15 @@
 
 #### 安装教程
 
-1.  xxxx
+1.  java -jar yuyin.jar 
 2.  xxxx
 3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  需要先在https://ai.baidu.com/网站上注册账号，调用需要key id 密匙等字段，免费次数50000
+2.  音频文件目录在代码synthesis中“E:\workspace\pcm”，文件后缀是pcm的
+3.  调用成功后返回的json，解析之后入到了mysql，tablename是yuyin
 
 #### 参与贡献
 
@@ -28,10 +28,3 @@
 
 
 #### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
